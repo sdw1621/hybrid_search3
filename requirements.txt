@@ -1,0 +1,11 @@
+gradio
+langchain
+langchain-openai
+langchain-core
+langchain-community
+langchain-text-splitters
+tiktoken
+faiss-cpu
+pypdf
+openai
+rank_bm25
