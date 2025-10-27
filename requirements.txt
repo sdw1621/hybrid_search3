@@ -9,3 +9,4 @@ faiss-cpu
 pypdf
 openai
 rank_bm25
+streamlit_extras
